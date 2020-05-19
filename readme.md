@@ -1,6 +1,6 @@
 Small tcl Script that can be executed in xsct the read the total amount of RAM transfers. Just in case you cant use the System Performance Monitor in SDK. Reads the total read / write transactions and amount of transfered bytes once a second from the S1 & S2 ports of the DDR memory controller. 
 
-![Ultrascale+Interconnects](doc/Ultrascale+Interconnects)
+![Ultrascale+Interconnects](doc/Ultrascale+Interconnects.png)
 
 ```
 xsct% connect                                                                   
