@@ -8,7 +8,7 @@ tcfchan#0
 
 xsct% target 4    
                                                               
-xsct% source readAPM.tcl                                                        
+xsct% source apm-monitor.tcl                                                        
 Total Write Transactions: 4762                                                  
 Total Read Transactions: 27933
 Total Written Bytes: 304832
